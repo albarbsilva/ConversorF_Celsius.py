@@ -1,1 +1,1 @@
-# ConversorF_Celsius.py
+Um conversor simples de Fahrenheit para Celsius
